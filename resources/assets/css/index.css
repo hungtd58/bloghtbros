@@ -1,0 +1,52 @@
+.main{
+    width: 720px;
+    height: auto;
+    margin: 20px auto 20px auto;
+}
+
+.inputform{
+    margin: 10px 0px 10px 0px;
+}
+
+.inputimage{
+    width: 100px;
+    margin: 10px 0px 10px 0px;
+}
+
+.main{
+    width: 720px;
+    height: auto;
+    margin: 20px auto 20px auto;
+}
+
+.thumb_img{
+    width: 100px;
+    height: 100px;
+}
+
+.media{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.left-media{
+    float: left;
+    width: 90%;
+    height: auto;
+}
+
+.right-media{
+    float: left;
+    width: 8%;
+    height: auto;
+}
+
+.articles{
+    margin-top: 30px;
+}
+
+.w3-card-2{
+    margin-top: 20px;
+}
